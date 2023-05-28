@@ -2,7 +2,7 @@ import A from "./dist/index.js";
 
 const Emitter = new A({
   once,
-  delay
+  delay,
 });
 
 Emitter.add("test", (params) => {

@@ -1,6 +1,6 @@
 {
   "name": "js-fast-emitter",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "description": "Javascript Fast Emitter",
   "main": "dist/index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "keywords": ["javascript", "emitter", "listener", "react-native"],
   "author": "Santo Riggio",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/santoriggio/js-emitter/issues"
   },
