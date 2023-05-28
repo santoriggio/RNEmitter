@@ -1,0 +1,38 @@
+# Ignore Expo development files
+.expo/
+node_modules/
+npm-debug.*
+# Remove yarn-specific files
+yarn-debug.*
+yarn-error.*
+
+# Ignore Android build output
+android/
+*.apk
+*.aab
+
+# Ignore iOS build output
+ios/
+build/
+*.xcworkspace
+*.xcodeproj
+
+# Ignore Xcode configuration files
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+
+# Ignore Gradle files
+.gradle/
+build/
+
+# Ignore Metro Bundler cache
+.cache/
+.metro/
+
+
+__test__/

@@ -1,0 +1,27 @@
+{
+  "name": "js-fast-emitter",
+  "version": "1.0.7",
+  "description": "Javascript Emitter",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santoriggio/js-emitter.git"
+  },
+  "keywords": [],
+  "author": "Santo Riggio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santoriggio/js-emitter/issues"
+  },
+  "homepage": "https://github.com/santoriggio/js-emitter#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.1",
+    "@types/node": "^20.2.5",
+    "jest": "^29.5.0",
+    "typescript": "^5.0.4"
+  }
+}

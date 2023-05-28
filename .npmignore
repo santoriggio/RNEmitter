@@ -1,0 +1,30 @@
+# Ignore development files and directories
+.expo
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.cache
+.metro
+android
+ios
+*.apk
+*.aab
+*.xcworkspace
+*.xcodeproj
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+project.xcworkspace
+xcuserdata
+.gradle
+build
+
+# Include necessary files
+package.json
+App.js
+
+
+test.js
