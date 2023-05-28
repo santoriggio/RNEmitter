@@ -28,7 +28,6 @@ const AppEmitter = new Emitter();
 
 ## Methods
 
-## Methods
 
 ### `add(eventName: string, listener: Function, options?: { once?: boolean, delay?: number }): void`
 Adds a listener function for the specified event name.
