@@ -1,2 +1,2 @@
-# RNEmitter
-React Native Emitter
+# js-emitter
+Javascript Emitter
