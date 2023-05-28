@@ -13,7 +13,7 @@ npm install js-fast-emitter
 
 ## Usage 
 
-To use js-fast-emitter, import the Emitter class from the package:
+To use `js-fast-emitter`, import the Emitter class from the package:
 
 ```javascript
 import Emitter from "js-fast-emitter"
@@ -60,7 +60,7 @@ const listener = AppEmitter.add('myEvent', (data) => {
 });
 
 // Removing the listener
-listenerObj.remove();
+listener.remove();
 
 ```
 
