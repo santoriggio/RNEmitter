@@ -1,6 +1,6 @@
 {
   "name": "js-fast-emitter",
-  "version": "1.0.10",
+  "version": "1.0.12",
   "description": "Javascript Fast Emitter",
   "main": "dist/index.js",
   "scripts": {
