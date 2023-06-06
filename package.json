@@ -1,6 +1,6 @@
 {
   "name": "js-fast-emitter",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Javascript Fast Emitter",
   "main": "dist/index.js",
   "scripts": {
@@ -9,15 +9,15 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/santoriggio/js-emitter.git"
+    "url": "git+https://github.com/santoriggio/js-fast-emitter.git"
   },
   "keywords": ["javascript", "emitter", "listener", "react-native"],
   "author": "Santo Riggio",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/santoriggio/js-emitter/issues"
+    "url": "https://github.com/santoriggio/js-fast-emitter/issues"
   },
-  "homepage": "https://github.com/santoriggio/js-emitter#readme",
+  "homepage": "https://github.com/santoriggio/js-Fast-emitter#readme",
   "devDependencies": {
     "@types/jest": "^29.5.1",
     "@types/node": "^20.2.5",

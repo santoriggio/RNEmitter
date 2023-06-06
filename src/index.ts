@@ -45,7 +45,7 @@ export default class Listener<E extends string, T> {
       const listeners = this.emitter[event];
 
       for (let i = 0; i < listeners.length; i++) {
-        if (typeof listeners[i] == "undefined" || typeof listeners[i] != "function") {
+        if (typeof listeners[i] == "undefined" || typeof listeners[i].func != "function") {
           index = i;
           break;
         }
